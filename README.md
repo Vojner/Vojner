@@ -1,6 +1,6 @@
 -  Hi, I’m @Vojner
 -  I’m interested in programming, digital art
--  I’m currently learning Java
--  I’m collaborate on Dead Space 14
+-  I’m currently learning Java, HTML
 -  Pronouns: he/him
--  Fun fact: :P
+-  Chillguy
+-  хех
