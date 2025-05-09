@@ -1,6 +1,1 @@
--  Hi, I’m @Vojner
--  I’m interested in programming, digital art
--  I’m currently learning Java, HTML
--  Pronouns: he/him
--  Chillguy
--  хех
+I can't do anything!
